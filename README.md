@@ -1,7 +1,7 @@
 
 
 
-<div align="center">
+<div>
   
   <a href="https://github.com/iamnathalia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnathalia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
