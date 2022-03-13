@@ -1,12 +1,8 @@
 
-
-
-<div>
-  
+<div align="center">
   <a href="https://github.com/iamnathalia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iamnathalia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnathalia&layout=compact&langs_count=7&theme=dark"/>
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamnathalia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnathalia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div align="center" style="display: inline_block"><br>
@@ -16,7 +12,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Nath-icon" src="https://cdn.discordapp.com/attachments/952556720419401791/952579970054631504/ezgif-1-12539a66c1.gif" />
+  <img align="right" alt="Nath-icon" src="https://media.discordapp.net/attachments/952556720419401791/952582409881284658/ezgif-1-12539a66c1.gif" />
                                          
 </div>
     
