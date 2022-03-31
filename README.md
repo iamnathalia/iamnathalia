@@ -13,7 +13,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Spring-Icon" height="40" width="40" src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png" />
   <img align="center" alt="MySQL-Icon" height="30" width="50" src="https://cdn.discordapp.com/attachments/949444480296157266/950690584295772160/58481057cef1014c0b5e4951.png" />
-  <img align="right" height="30" width="40" src="https://cdn.discordapp.com/attachments/952556720419401791/959219821193605210/pngegg_1.png" />
+  <img align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/952556720419401791/959219821193605210/pngegg_1.png" />
     
 </div>
     
