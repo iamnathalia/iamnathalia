@@ -14,7 +14,7 @@
   <img align="center" alt="Spring-Icon" height="40" width="40" src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png" />
   <img align="center" alt="MySQL-Icon" height="30" width="50" src="https://cdn.discordapp.com/attachments/949444480296157266/950690584295772160/58481057cef1014c0b5e4951.png" />
   <img align="center" alt="github" height="40" width="40" src="https://cdn.discordapp.com/attachments/952556720419401791/959219056571985990/pngegg.png" />
-  <img align="center" height="43" width="40" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" />
+  <img align="center" height="42" width="40" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" />
   <img align="right" height="200" width="200" src="https://cdn.discordapp.com/attachments/952556720419401791/959219821193605210/pngegg_1.png" />
   
     
