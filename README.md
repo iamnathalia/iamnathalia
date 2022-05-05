@@ -17,6 +17,7 @@
   <img align="center" height="42" width="40" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" />
   <img align="center" alt="Spring-Icon" height="40" width="40" src="https://cdn.discordapp.com/attachments/952556720419401791/959230728757973022/pngegg_2.png" />
   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/99620798/166682761-a62e766f-9b07-4dfc-853a-6747f7c33a34.png" />
+  <img align="center" alt="angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/99620798/166684071-ad24ece4-1c94-4ce0-8db2-6c5202e9e644.png" />
 
     
